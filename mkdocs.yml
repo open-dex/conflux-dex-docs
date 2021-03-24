@@ -1,0 +1,13 @@
+site_name: Conflux DEX Documentation
+nav:
+    - Welcome to Conflux DEX: index.md
+    - BoomFlow:
+      - Introduction: boomflow/index.md
+    - MatchFlow:
+      - Introduction: matchflow/index.md
+      - WebSocket API: matchflow/ws.md
+      - User Registration: matchflow/reg_user.md
+      - Frontend Integration: matchflow/frontend.md
+      - Market Maker: matchflow/market_maker.md
+      - EIP712 Signature: matchflow/eip712.md
+theme: readthedocs
